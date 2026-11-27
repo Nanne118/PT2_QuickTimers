@@ -1,0 +1,22 @@
+{
+  "name": "quick-timers",
+  "author": "Nanne118",
+  "version": "1.0.0",
+  "keywords": ["pebble-app"],
+  "private": true,
+  "dependencies": {},
+  "pebble": {
+    "displayName": "Quick Timers",
+    "uuid": "9c5d82fb-4c7b-49e9-b24e-3bd9bfaee90d",
+    "sdkVersion": "3",
+    "enableMultiJS": false,
+    "targetPlatforms": ["emery"],
+    "watchapp": {
+      "watchface": false
+    },
+    "messageKeys": [],
+    "resources": {
+      "media": []
+    }
+  }
+}
